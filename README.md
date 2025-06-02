@@ -1,25 +1,66 @@
-[![Linkedin Badge](https://img.shields.io/badge/Raghav-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raghavgarg2002/)
-![Instagram Badge](https://img.shields.io/badge/grraghav120@gmail.com-follow%20on%20Gmail-blue?style=for-the-badge&logo=gmail)
 
-## Celebrating 300+ Active Users on Expense Tracker 🥳🎉🍾
+# Expense Tracker
 
-# ExpenseTracker
-- Implemented robust APIs using Express.js and Node.js, enabling smooth data retrieval and manipulation.
-- Ensured secure access to sensitive features by implementing user authentication and authorization mechanisms in this application.
+[![Linkedin Badge](https://img.shields.io/badge/Aryan%20Subhash%20Pawar-follow%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-pawar-b85524344)  
+![Gmail Badge](https://img.shields.io/badge/aryanspawar05@gmail.com-follow%20on%20Gmail-blue?style=for-the-badge&logo=gmail)
 
-# About our Project
+---
 
+## 🎉 Celebrating 300+ Active Users on Expense Tracker 🥳🍾
 
-<div align="left">
-   <br>
-   <img src="https://img.shields.io/github/repo-size/grraghav120/expense-tracker?style=for-the-badge" />
-   <img src="https://img.shields.io/github/issues/grraghav120/expense-tracker?style=for-the-badge" />
-   <img src="https://img.shields.io/github/issues-closed-raw/grraghav120/expense-tracker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/license/grraghav120/expense-tracker?style=for-the-badge" />
+---
 
-   <img src="https://img.shields.io/github/issues-pr/grraghav120/expense-tracker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/contributors/grraghav120/expense-tracker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/stars/grraghav120/expense-tracker?style=for-the-badge" />
+## About the Project
+
+Expense Tracker is a full-stack web application designed to help users easily manage and track their expenses and income. It features a clean UI and robust backend APIs built with Express.js and Node.js, including secure authentication and authorization to keep your financial data safe.
+
+---
+
+## Features
+
+- **User Authentication & Authorization:** Secure login/signup with JWT tokens.  
+- **Add, Edit & Delete Expenses:** Track all your spending in categories.  
+- **Income Management:** Add and manage multiple income sources.  
+- **Dashboard:** Visual summaries and charts for better insights.  
+- **Responsive Design:** Works seamlessly on both desktop and mobile devices.  
+- **Real-time Notifications:** Alerts on important actions or updates.  
+
+---
+
+## Tech Stack
+
+- **Frontend:** React.js, React Router  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT (JSON Web Tokens)  
+- **Styling:** CSS Modules / Styled Components (adjust based on your setup)  
+
+---
+
+## Screenshots
+
+<div align="center">
+  <img src="path_to_screenshot1.png" alt="Dashboard Screenshot" width="400" />
+  <img src="path_to_screenshot2.png" alt="Add Expense Screenshot" width="400" />
+</div>
+
+*(Replace `path_to_screenshotX.png` with your actual image paths or links)*
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed  
+- MongoDB instance running (local or cloud)
+
+### Installation
+
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/testgithubrit504/PERSONAL-FINANCE-TRACKER.git
+   cd PERSONAL-FINANCE-TRACKER
 
    <img src="https://img.shields.io/github/issues-pr-closed-raw/grraghav120/expense-tracker?style=for-the-badge" />
    <img src="https://img.shields.io/github/forks/grraghav120/expense-tracker?style=for-the-badge" />
